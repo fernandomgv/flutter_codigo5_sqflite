@@ -114,7 +114,7 @@ class _HomePageState extends State<HomePage> {
                 ),
                 InputTextFieldWidget(
                   hintText: "Portada",
-                  icon: "bx-image",
+                  icon: "bx-images",
                   controller: _imageController,
                 ),
                 Row(
